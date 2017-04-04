@@ -1,4 +1,8 @@
-# Connect4
+# Angular 4 Connect 4 game
+
+## Live demo
+
+https://virgil-av.github.io/connect4/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
